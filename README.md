@@ -74,15 +74,15 @@ Note:
 
 ## 8.Project Structure
 
-cn-quiz-system/
-│
-├── server.py
-├── client.py
-├── server.crt
-├── server.key
-├── generate_cert.py
-├── README.md
-├── .gitignore
+    cn-quiz-system/
+    │
+    ├── server.py
+    ├── client.py
+    ├── server.crt
+    ├── server.key
+    ├── generate_cert.py
+    ├── README.md
+    ├── .gitignore
 
 
 
