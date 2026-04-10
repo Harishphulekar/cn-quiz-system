@@ -86,20 +86,11 @@ Note:
 
 
 
-## 9.Concepts Demonstrated
-    * Client-Server Architecture
-    * TCP Socket Programming
-    * SSL/TLS Security
-    * Multithreading (Concurrency)
-    * Network Performance Evaluation
-
-## 10.Test Results:
+## 9.Test Results:
     2 Clients → Avg Response Time: 0.2 sec (Very fast)
     5 Clients → Avg Response Time: 0.5 sec (Slight delay)
     10 Clients → Avg Response Time: 1.2 sec (Noticeable delay)
 
-Observation:
-As number of clients increases, response time increases due to thread handling and network overhead.
 
 Conclusion :
 This project demonstrates how to build a **secure, scalable, and concurrent network application** using low-level socket programming concepts.
