@@ -85,16 +85,16 @@ Note:
     ├── .gitignore
 
 ## 9. Event Flow 
+    
+    Client → Connect → Send name
+    Server → Accept → Create thread
+    Server → Wait for all clients
+    Server → Send questions
+    Client → Send answers
+    Server → Evaluate
+    Server → Broadcast leaderboard
 
-Client → Connect → Send name
-Server → Accept → Create thread
-Server → Wait for all clients
-Server → Send questions
-Client → Send answers
-Server → Evaluate
-Server → Broadcast leaderboard
-
-## 9.Test Results:
+## 10.Test Results:
     2 Clients → Avg Response Time: 0.2 sec (Very fast)
     5 Clients → Avg Response Time: 0.5 sec (Slight delay)
     10 Clients → Avg Response Time: 1.2 sec (Noticeable delay)
