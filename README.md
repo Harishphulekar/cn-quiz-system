@@ -95,9 +95,13 @@ Note:
     Server → Broadcast leaderboard
 
 ## 10.Test Results:
-    2 Clients → Avg Response Time: 0.2 sec (Very fast)
-    5 Clients → Avg Response Time: 0.5 sec (Slight delay)
-    10 Clients → Avg Response Time: 1.2 sec (Noticeable delay)
+   
+    Server :
+    <img width="863" height="515" alt="Screenshot 2026-04-14 013153" src="https://github.com/user-attachments/assets/e101f200-7758-4ca3-bfd6-0b7bdbfeb088" />
+    Client :
+    <img width="874" height="469" alt="Screenshot 2026-04-14 013202" src="https://github.com/user-attachments/assets/0d83113e-80b7-42ff-86a5-449d7dd54534" />
+    client leaderboard 
+    <img width="756" height="613" alt="Screenshot 2026-04-14 013216" src="https://github.com/user-attachments/assets/53bbc05a-e26d-4f49-9183-cb092f68e5e7" />
 
 
 Conclusion :
